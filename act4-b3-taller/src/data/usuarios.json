@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "nombre": "emilio",
+        "edad": 12,
+        "rol": "ADMIN",
+        "estado": "INACTIVO"
+    },
+    {
+        "id": 12,
+        "nombre": "eduardo",
+        "edad": 0,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 1,
+        "nombre": "eduardo",
+        "edad": 0,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 34,
+        "nombre": "cartagena",
+        "edad": 0,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 1,
+        "nombre": "Prueba",
+        "edad": 0,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "edad": 0,
+        "correo": "correio",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Luis",
+        "edad": 3,
+        "correo": "kds",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Luis",
+        "edad": 2,
+        "correo": "hola@gmail.com",
+        "rol": "USUARIO",
+        "estado": "ESTADO"
+    },
+    {
+        "id": 2,
+        "nombre": "luis",
+        "edad": 20,
+        "correo": "luis@gmail.com",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 7,
+        "nombre": "Kevin",
+        "edad": 20,
+        "correo": "kevin@gmail.com",
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    }
+]

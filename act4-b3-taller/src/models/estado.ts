@@ -1,0 +1,1 @@
+export type Estado = "activo" | "inactivo" | "nulo";
